@@ -1,0 +1,23 @@
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 32px;
+  color: #333;
+  text-align: center;
+}
+
+/* تعيين الخط لعناوين الأقسام */
+h2 {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  color: #333;
+  margin-top: 20px;
+}
+
+/* تعيين الخط للفقرات */
+p {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #666;
+  line-height: 1.5;
+  margin-top: 10px;
+}
